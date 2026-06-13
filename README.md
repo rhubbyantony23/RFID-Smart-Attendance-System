@@ -54,6 +54,11 @@ SDA -> A4
 SCL -> A5
 LED -> Pin 7
 
+## 📷 Circuit Diagram
+![Circuit Diagram](circuit_diagram.png)
+
+## 📷 Sample Output
+![Sample Output](sample_output.jpg)
 
 ## 🚀 How It Works
 1. User scans RFID tag near reader
