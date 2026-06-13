@@ -55,7 +55,7 @@ SCL -> A5
 LED -> Pin 7
 
 ## 📷 Circuit Diagram
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](.png)
 
 ## 📷 Sample Output
 ![Sample Output](sample_output.jpg)
